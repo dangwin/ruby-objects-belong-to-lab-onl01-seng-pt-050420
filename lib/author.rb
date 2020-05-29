@@ -1,6 +1,6 @@
 def Author 
   
-  attr_accessor :author 
+  attr_accessor :name 
   
   
   
